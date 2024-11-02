@@ -1,0 +1,8 @@
+{
+    "key": "5El2uU2oMZ2JIfvWGQQTE24pUzarb5Ekwfg1oprRaINpfx4qIPexJQQJ99AKACYeBjFXJ3w3AAAbACOG2GJr",
+    "location": "eastus",
+    "openai_azure_endpoint": "https://ai102-azureopenai-prfagun1.openai.azure.com/",
+    "openai_api_key": "B32e9BrKWx0O52lYpjYj2hmYcGNBPZDm86oVTX4ij5jJ6FiSurZcJQQJ99AKACYeBjFXJ3w3AAABACOGtrtH",
+    "open_api_version": "2024-02-15-preview",
+    "open_api_deployment_name" : "gpt-4o-mini"
+  }
